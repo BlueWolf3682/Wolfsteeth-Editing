@@ -18,7 +18,7 @@ ammo: {
   copper: {
   speed: 10
   damage: 400
-  bulletSprite: railbolt
+  bulletSprite: wolfsteeth-railbolt
   lifetime: 360
   ammoMultiplier: 5
   }
@@ -26,7 +26,7 @@ ammo: {
   speed: 10
   damage: 125525
   lifetime: 360
-  bulletSprite: railbolt
+  bulletSprite: wolfsteeth-railbolt
   bulletWidth: 10
   bulletHeight: 35
   frontColor: c8c8ff
