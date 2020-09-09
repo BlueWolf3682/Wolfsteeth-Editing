@@ -62,10 +62,10 @@ ammo: {
   bulletHeight: 25
   bulletSprite: wolfsteeth-railbolt
   lifetime: 240
-  fragBullets: 5
+  fragBullets: 15
   fragBullet: {
     speed: 10
-    lifetime: 3
+    lifetime: 30
     damage: 25
     bulletWidth: 1
     bulletHeight: 5
