@@ -57,7 +57,7 @@ ammo: {
   sand: {
   damage: 120
   speed: 15
-  ammoMultiplier: 0.5
+  ammoMultiplier: 1
   bulletWidth: 5
   bulletHeight: 25
   bulletSprite: wolfsteeth-railbolt
