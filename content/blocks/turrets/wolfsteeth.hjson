@@ -49,9 +49,9 @@ ammo: {
   lifetime: 360
   splashDamage: 172
   splashDamageRadius: 73
-  hitEffect: Fx.flakExplosion
-  backColor: Pal.missileYellowBack
-  frontColor: Pal.missileYellow
+  hitEffect: flakExplosion
+  backColor: missileYellowBack
+  frontColor: missileYellow
   }
 }
 outlineIcon: false
