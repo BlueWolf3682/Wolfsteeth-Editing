@@ -47,6 +47,8 @@ ammo: {
   damage: 44
   reloadMultiplier: 60
   lifetime: 360
+  frontColor: ffceb0
+  backColor: e38b59
   bulletSprite: wolfsteeth-railbolt
   splashDamage: 172
   splashDamageRadius: 73
