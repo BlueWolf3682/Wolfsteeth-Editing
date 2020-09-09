@@ -78,6 +78,7 @@ ammo: {
   blastDamage: 450
   blastDamageRadius: 25
   bulletSprite: wolfsteeth-railbolt
+  }
 }
 outlineIcon: false
 requirements: [
