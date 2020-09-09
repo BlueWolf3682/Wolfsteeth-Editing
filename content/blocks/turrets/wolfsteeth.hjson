@@ -46,13 +46,29 @@ ammo: {
   speed: 4
   damage: 44
   reloadMultiplier: 60
-  lifetime: 360
+  lifetime: 630
   frontColor: ffceb0
   backColor: e38b59
   bulletSprite: wolfsteeth-railbolt
   splashDamage: 172
   splashDamageRadius: 73
   hitEffect: flakExplosion
+  }
+  sand: {
+  damage: 120
+  speed: 15
+  bulletWidth: 5
+  bulletHeight: 25
+  bulletSprite: wolfsteeth-railbolt
+  lifetime: 240
+  fragBullets: 5
+  fragBullet: {
+    speed: 10
+    lifetime: 3
+    damage: 25
+    bulletWidth: 1
+    bulletHeight: 5
+    }
   }
 }
 outlineIcon: false
