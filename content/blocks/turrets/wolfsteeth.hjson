@@ -39,9 +39,19 @@ ammo: {
     lifetime: 0
     damage: 0
     lightining: 10
-    lightningLength: 7
+    lightningLength: 50
     }
   }
+  blast-compound: {
+  speed: 6
+  damage: 44
+  reloadMultiplier: 60
+  lifetime: 360
+  splashDamage: 172
+  splashDamageRadius: 73
+  hitEffect: Fx.flakExplosion
+  backColor: Pal.missileYellowBack
+  frontColor: Pal.missileYellow
 }
 outlineIcon: false
 requirements: [
