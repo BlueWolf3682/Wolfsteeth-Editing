@@ -43,7 +43,7 @@ ammo: {
     }
   }
   blast-compound: {
-  speed: 1
+  speed: 4
   damage: 44
   reloadMultiplier: 60
   lifetime: 360
