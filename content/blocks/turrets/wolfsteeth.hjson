@@ -53,8 +53,6 @@ ammo: {
   splashDamage: 172
   splashDamageRadius: 73
   hitEffect: flakExplosion
-  backColor: missileYellowBack
-  frontColor: missileYellow
   }
 }
 outlineIcon: false
