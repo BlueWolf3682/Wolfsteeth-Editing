@@ -75,8 +75,8 @@ ammo: {
   speed: 12
   damage: 15
   lifetime: 270
-  blastDamage: 450
-  blastDamageRadius: 25
+  splashDamage: 450
+  splashDamageRadius: 25
   bulletSprite: wolfsteeth-railbolt
   }
 }
