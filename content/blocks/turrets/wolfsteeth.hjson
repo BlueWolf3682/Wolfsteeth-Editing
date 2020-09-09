@@ -52,6 +52,7 @@ ammo: {
   hitEffect: Fx.flakExplosion
   backColor: Pal.missileYellowBack
   frontColor: Pal.missileYellow
+  }
 }
 outlineIcon: false
 requirements: [
