@@ -90,6 +90,7 @@ ammo: {
   backColor: 468021
   fragBullets: 45
   fragBullet: fireball
+  }
 }
 outlineIcon: false
 requirements: [
