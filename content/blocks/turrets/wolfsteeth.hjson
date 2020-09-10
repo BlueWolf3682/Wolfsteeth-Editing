@@ -92,6 +92,19 @@ ammo: {
   fragBullet: fireball
   status: burning
   }
+  titanium: { 
+  damage: 155
+  speed: 17
+  lifetime: 235
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 7
+  bulletHeight: 32
+  frontColor: d2d2fd
+  backColor: 8e8efd
+  fragBullets: 5
+  fragBullet: cryoShot
+  status: freezing
+  }
 }
 outlineIcon: false
 requirements: [
