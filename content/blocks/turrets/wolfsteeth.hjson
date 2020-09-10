@@ -86,8 +86,8 @@ ammo: {
   bulletWidth: 10
   bulletHeight: 35
   bulletSprite: wolfsteeth-railbolt
-  frontColor: f8ad42
-  backColor: 468021
+  frontColor: f7d9ae
+  backColor: f8ad42
   fragBullets: 45
   fragBullet: fireball
   }
