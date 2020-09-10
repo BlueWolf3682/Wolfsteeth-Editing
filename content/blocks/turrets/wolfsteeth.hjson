@@ -90,6 +90,7 @@ ammo: {
   backColor: f8ad42
   fragBullets: 45
   fragBullet: fireball
+  status: burning
   }
 }
 outlineIcon: false
