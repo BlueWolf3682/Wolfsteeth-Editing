@@ -79,6 +79,17 @@ ammo: {
   splashDamageRadius: 25
   bulletSprite: wolfsteeth-railbolt
   }
+  pyratite: { 
+  damage: 122 
+  speed: 10
+  lifetime: 360
+  bulletWidth: 10
+  bulletHeight: 35
+  bulletSprite: wolfsteeth-railbolt
+  frontColor: f8ad42
+  backColor: 468021
+  fragBullets: 45
+  fragBullet: fireball
 }
 outlineIcon: false
 requirements: [
