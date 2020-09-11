@@ -159,6 +159,27 @@ ammo: {
   frontColor: b699fc
   backColor: 763dfc
   }
+  metaglass: { 
+  damage: 152
+  speed: 11
+  lifetime: 350
+  bulletWidth: 4
+  bulletHeight: 22
+  bulletSprite: wolfsteeth-railbolt
+  frontColor: ffffff
+  backColor: c2c2c2
+  fragBullets: 25
+  fragBullet: {
+    damage: 15
+    speed: 7
+    lifetime: 5
+    pierce: true
+    bulletWidth: 1
+    bulletHeight: 10
+    frontColor: ffffff
+    backColor: c2c2c2
+    }
+  }
 }
 outlineIcon: false
 requirements: [
