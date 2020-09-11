@@ -146,6 +146,16 @@ ammo: {
     bulletHeight: 1
     }
   }
+  spore-pod: {
+  damage: 7
+  speed: 4
+  lifetime: 725
+  pierce: true
+  bulletSprite: wolfsteeth-railbolt
+  hitEffect: fire
+  status: burning
+  frontColor: b699fc
+  backColor: 763dfc
 }
 outlineIcon: false
 requirements: [
