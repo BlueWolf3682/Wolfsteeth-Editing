@@ -181,6 +181,18 @@ ammo: {
     backColor: c2c2c2
     }
   }
+  lead: {
+  damage: 122
+  speed: 6
+  lifetime: 685
+  pierce: true
+  knockback: 256
+  bulletWidth: 10
+  bulletHeight: 37
+  bulletSprite: wolfsteeth-railbolt
+  frontColor: b28ae2
+  backColor: 8c46e2
+  }
 }
 outlineIcon: false
 requirements: [
