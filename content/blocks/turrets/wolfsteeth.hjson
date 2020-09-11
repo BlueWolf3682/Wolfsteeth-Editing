@@ -124,6 +124,25 @@ ammo: {
   bulletWidth: 12
   bulletHeight: 37
   }
+  phase-fabric: {
+  damage: 25
+  speed: 20
+  lifetime: 180
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 5
+  bulletHeight: 27
+  fragBullets: 50
+  fragBullet: {
+    damage: 2
+    speed: 3
+    lifetime: 180
+    knockback: 54
+    homingPower: 1
+    homingRange: 320
+    bulletWidth: 2
+    bulletHeight: 2
+    }
+  }
 }
 outlineIcon: false
 requirements: [
