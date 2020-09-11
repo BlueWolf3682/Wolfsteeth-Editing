@@ -164,6 +164,7 @@ ammo: {
   backColor: 763dfc
   fragBullets: 12
   fragBullet: fireball
+  fragVelocityMax: 0.1
   }
   metaglass: { 
   damage: 152
@@ -172,6 +173,7 @@ ammo: {
   bulletWidth: 4
   bulletHeight: 22
   ammoMultiplier: 8
+  pierce: true
   bulletSprite: wolfsteeth-railbolt
   frontColor: ffffff
   backColor: c2c2c2
