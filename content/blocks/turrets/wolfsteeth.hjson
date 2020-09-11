@@ -118,7 +118,7 @@ ammo: {
   speed: 7
   lifetime: 385
   pierce: true
-  hitEffect: smoke
+  hitEffect: hitMeltdown
   splashDamage: 85
   splashDamageRadius: 38
   bulletSprite: wolfsteeth-railbolt
