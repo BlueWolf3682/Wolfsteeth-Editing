@@ -190,8 +190,8 @@ ammo: {
   bulletWidth: 10
   bulletHeight: 37
   bulletSprite: wolfsteeth-railbolt
-  frontColor: b28ae2
-  backColor: 8c46e2
+  frontColor: 8276a6
+  backColor: 686587
   }
 }
 outlineIcon: false
