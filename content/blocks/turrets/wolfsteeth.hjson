@@ -113,6 +113,17 @@ ammo: {
   fragVelocityMax: 0.2
   status: freezing
   }
+  thorium: {
+  damage: 358
+  speed: 7
+  lifetime: 385
+  piercing: true
+  splashDamage: 85
+  splashDamageRadius: 38
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 12
+  bulletHeight: 37
+  }
 }
 outlineIcon: false
 requirements: [
