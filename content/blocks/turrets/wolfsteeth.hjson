@@ -13,7 +13,7 @@ xRand: 20
 ammoUseEffect: shellEjectBig
 shootCone: 15
 rotatespeed: 0.25
-range: 8000
+range: 1000
 ammo: {
   copper: {
   speed: 10
@@ -29,8 +29,8 @@ ammo: {
   bulletSprite: wolfsteeth-railbolt
   bulletWidth: 10
   bulletHeight: 35
-  frontColor: c8c8ff
-  backColor: ffffff
+  frontColor: fbfdaf
+  backColor: fafd7b
   splashDamage: 152
   splashDamageRadius: 23
   fragBullets: 25
