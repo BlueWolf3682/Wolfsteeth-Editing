@@ -101,8 +101,9 @@ ammo: {
   bulletHeight: 32
   frontColor: d2d2fd
   backColor: 8e8efd
-  fragBullets: 5
+  fragBullets: 100
   fragBullet: cryoShot
+  fragVelocityMax: 0.2
   status: freezing
   }
 }
