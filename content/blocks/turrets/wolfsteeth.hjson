@@ -138,7 +138,7 @@ ammo: {
     pierce: true
     lifetime: 720
     knockback: 128
-    hitEffect: false
+    hitEffect: none
     homingPower: 1
     homingRange: 320
     bulletWidth: 1
