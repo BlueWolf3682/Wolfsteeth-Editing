@@ -156,6 +156,7 @@ ammo: {
   status: burning
   frontColor: b699fc
   backColor: 763dfc
+  }
 }
 outlineIcon: false
 requirements: [
