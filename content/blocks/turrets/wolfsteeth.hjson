@@ -216,6 +216,19 @@ ammo: {
   frontColor: a5d3e0
   backColor: 7d9faa
   }
+  coal: {
+  speed: 9
+  damage: 242
+  lifetime: 330
+  status: burning
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 8
+  bulletHeight: 30
+  frontColor: 3f3f3f
+  backColor: 242424
+  fragBullets: 4
+  fragBullet: fireball
+  }
 }
 outlineIcon: false
 requirements: [
