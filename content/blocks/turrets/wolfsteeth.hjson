@@ -151,6 +151,8 @@ ammo: {
   speed: 4
   lifetime: 725
   pierce: true
+  bulletWidth: 5
+  bulletHeight: 27
   bulletSprite: wolfsteeth-railbolt
   hitEffect: fire
   status: burning
