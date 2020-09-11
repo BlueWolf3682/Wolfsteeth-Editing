@@ -131,16 +131,17 @@ ammo: {
   bulletSprite: wolfsteeth-railbolt
   bulletWidth: 5
   bulletHeight: 27
-  fragBullets: 50
+  fragBullets: 100
   fragBullet: {
-    damage: 2
+    damage: 1
     speed: 3
-    lifetime: 180
-    knockback: 54
+    pierce: true
+    lifetime: 720
+    knockback: 128
     homingPower: 1
     homingRange: 320
-    bulletWidth: 2
-    bulletHeight: 2
+    bulletWidth: 1
+    bulletHeight: 1
     }
   }
 }
