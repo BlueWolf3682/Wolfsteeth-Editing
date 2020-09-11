@@ -168,11 +168,12 @@ ammo: {
   bulletSprite: wolfsteeth-railbolt
   frontColor: ffffff
   backColor: c2c2c2
+  hitEffect: flakExplosion
   fragBullets: 25
   fragBullet: {
     damage: 15
-    speed: 7
-    lifetime: 5
+    speed: 3
+    lifetime: 60
     pierce: true
     bulletWidth: 1
     bulletHeight: 10
