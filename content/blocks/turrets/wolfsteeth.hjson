@@ -187,6 +187,7 @@ ammo: {
   lifetime: 685
   pierce: true
   knockback: 256
+  hitEffect: hitLancer
   bulletWidth: 10
   bulletHeight: 37
   bulletSprite: wolfsteeth-railbolt
