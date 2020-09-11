@@ -117,7 +117,7 @@ ammo: {
   damage: 358
   speed: 7
   lifetime: 385
-  piercing: true
+  pierce: true
   splashDamage: 85
   splashDamageRadius: 38
   bulletSprite: wolfsteeth-railbolt
