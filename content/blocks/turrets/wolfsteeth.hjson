@@ -247,6 +247,9 @@ ammo: {
     speed: 3
     damage: 22
     lifetime: 38
+    splashDamage: 24
+    splashDamageRadius: 18
+    hitEffect: flakExplosion
     bulletWidth: 3
     bulletHeight: 5
     frontColor: fffbc7
