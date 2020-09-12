@@ -229,6 +229,30 @@ ammo: {
   fragBullets: 4
   fragBullet: fireball
   }
+  plastanium: {
+  speed: 10
+  damage: 225
+  lifetime: 360
+  pierce: true
+  hitEffect: plasticExplosion
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 10
+  bulletHeight: 36
+  splashDamage: 35
+  splashDamageRadius: 27
+  frontColor: fffbc7
+  backColor: dedb83
+  fragBullets: 4
+  fragBullet: { 
+    speed: 3
+    damage: 22
+    lifetime: 38
+    bulletWidth: 3
+    bulletHeight: 5
+    frontColor: fffbc7
+    backColor: dedb83
+    }
+  }
 }
 outlineIcon: false
 requirements: [
