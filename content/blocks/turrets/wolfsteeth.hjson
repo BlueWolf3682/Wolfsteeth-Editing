@@ -28,7 +28,7 @@ ammo: {
   }
   surge-alloy: {
   speed: 10
-  damage: 12550
+  damage: 1253
   lifetime: 360
   bulletSprite: wolfsteeth-railbolt
   bulletWidth: 10
@@ -37,12 +37,12 @@ ammo: {
   backColor: fafd7b
   splashDamage: 152
   splashDamageRadius: 23
-  fragBullets: 25
+  fragBullets: 15
   fragBullet: {
     speed: 0
     lifetime: 0
     damage: 0
-    lightining: 10
+    lightining: 4
     lightningLength: 15
     }
   }
@@ -255,6 +255,20 @@ ammo: {
     frontColor: fffbc7
     backColor: dedb83
     }
+  }
+  silicon: { 
+  damage: 400
+  speed: 10
+  homingPower: 1
+  homingRange: 320
+  lifetime: 360
+  reloadMultiplier: 1.5
+  ammoMultiplier: 4
+  bulletSprite: wolfsteeth-railbolt
+  bulletWidth: 4
+  bulletHeight: 22
+  frontColor: 999999
+  backColor: 494949
   }
 }
 outlineIcon: false
